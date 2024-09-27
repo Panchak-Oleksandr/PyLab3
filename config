@@ -1,0 +1,6 @@
+file_path = Text
+max_chars = 1000
+max_words = 200
+max_sentences = 10
+target_language = en
+output = file
